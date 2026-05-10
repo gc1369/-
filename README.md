@@ -1,2 +1,4 @@
+<meta name="robots" content="noindex,nofollow">
+
 # -
 个人做过的项目收录，包含运筹优化模型，数据分析，启发式算法，机器学习算法等。
